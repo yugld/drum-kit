@@ -1,5 +1,10 @@
 
 # Drum Kit JS
 
-JS30 by Wes Bos
+You can see the [result](https://yugld.github.io/drum-kit/)
+
 Day 1
+JS30 by Wes Bos
+
+
+
